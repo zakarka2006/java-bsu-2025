@@ -1,7 +1,7 @@
-package lab1.model.line;
+package dzenishchych.model.line;
 
-import lab1.model.product.ElectronicProduct;
-import lab1.model.product.Product;
+import dzenishchych.model.product.ElectronicProduct;
+import dzenishchych.model.product.Product;
 
 public final class ElectronicsLine extends ProductionLine<ElectronicProduct> {
     public ElectronicsLine(String lineId, double efficiency) {

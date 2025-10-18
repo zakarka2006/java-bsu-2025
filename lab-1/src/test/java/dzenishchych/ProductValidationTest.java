@@ -1,9 +1,9 @@
-package lab1;
+package dzenishchych;
 
-import lab1.model.product.ChemicalProduct;
-import lab1.model.product.ElectronicProduct;
-import lab1.model.product.MechanicalProduct;
-import lab1.model.product.Product;
+import dzenishchych.model.product.ChemicalProduct;
+import dzenishchych.model.product.ElectronicProduct;
+import dzenishchych.model.product.MechanicalProduct;
+import dzenishchych.model.product.Product;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;

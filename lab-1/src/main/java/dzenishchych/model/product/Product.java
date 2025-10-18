@@ -1,4 +1,4 @@
-package lab1.model.product;
+package dzenishchych.model.product;
 
 /**
  * Абстрактный класс, для продуктов. Record не получится использовать.
