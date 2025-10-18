@@ -1,7 +1,7 @@
-package lab1.service;
+package dzenishchych.service;
 
-import lab1.model.line.ProductionLine;
-import lab1.model.product.Product;
+import dzenishchych.model.line.ProductionLine;
+import dzenishchych.model.product.Product;
 
 import java.util.*;
 import java.util.stream.Collectors;

@@ -1,4 +1,4 @@
-package lab1.model.product;
+package dzenishchych.model.product;
 
 public final class ChemicalProduct extends Product {
     public ChemicalProduct(String id, String name, int productionTime) {

@@ -1,12 +1,12 @@
-package lab1;
+package dzenishchych;
 
-import lab1.model.line.ChemicalLine;
-import lab1.model.line.ElectronicsLine;
-import lab1.model.line.MechanicalLine;
-import lab1.model.line.ProductionLine;
-import lab1.model.product.ChemicalProduct;
-import lab1.model.product.ElectronicProduct;
-import lab1.model.product.MechanicalProduct;
+import dzenishchych.model.line.ChemicalLine;
+import dzenishchych.model.line.ElectronicsLine;
+import dzenishchych.model.line.MechanicalLine;
+import dzenishchych.model.line.ProductionLine;
+import dzenishchych.model.product.ChemicalProduct;
+import dzenishchych.model.product.ElectronicProduct;
+import dzenishchych.model.product.MechanicalProduct;
 import org.junit.jupiter.api.Test;
 
 import java.util.List;
